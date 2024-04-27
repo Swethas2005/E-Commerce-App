@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vijay",
+      "email": "v@gmail.com",
+      "password": "Vijay123"
+    },
+    {
+      "id": 2,
+      "name": "Rekha",
+      "email": "rekha@gmail.com",
+      "password": "1234Rekha"
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "2222222",
+      "id": 9
+    },
+    {
+      "name": "Swetha S",
+      "email": "swethas15092005@gmail.com",
+      "password": "222222",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "SmartPhone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkz2kjdQjM6DX7mLSYMtBrQMF_wRCFb-3cxwI5rPg1A&s",
+      "price": 15000,
+      "ratings": 5
+    },
+    {
+      "id": 2,
+      "title": "TV",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/299765792/GM/GW/BT/6158633/50-inch-smart-android-led-tv-500x500.jpg",
+      "price": 25000,
+      "ratings": 4
+    },
+    {
+      "id": 3,
+      "title": "Laptop",
+      "image": "https://images-cdn.ubuy.co.in/633b75b241637808af7d4688-asus-laptop-l510-ultra-thin-laptop.jpg",
+      "price": 35000,
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Washing Machine",
+      "image": "https://whirlpoolindia.vtexassets.com/arquivos/ids/167574-1200-auto?v=638320917724870000",
+      "price": 20000,
+      "ratings": 3.2
+    },
+    {
+      "id": 5,
+      "title": "Microwave oven",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyiYVs3xse5zH7hhmnIDtU6ZchYBpCOuid00Gev16kbQ&s",
+      "price": 23000,
+      "ratings": 3.8
+    },
+    {
+      "id": 6,
+      "title": "Spin Mop",
+      "image": "https://m.media-amazon.com/images/I/61f+J80ueCL.AC_UL480_FMwebp_QL65.jpg",
+      "price": 849,
+      "ratings": 4.5
+    },
+    {
+      "id": 7,
+      "title": "Broom",
+      "image": "https://m.media-amazon.com/images/I/611JToXX49L.AC_UL480_FMwebp_QL65.jpg",
+      "price": 285,
+      "ratings": 4.8
+    },
+    {
+      "id": 8,
+      "title": "Electric Ketle",
+      "image": "https://m.media-amazon.com/images/I/51DGcy8eBCL.AC_UL480_FMwebp_QL65.jpg",
+      "price": 599,
+      "ratings": 4.1
+    },
+    {
+      "id": 9,
+      "title": "Knife Holder",
+      "image": "https://m.media-amazon.com/images/I/51BgScyg2qL.AC_UL480_FMwebp_QL65.jpg",
+      "price": 200,
+      "ratings": 3.8
+    },
+    {
+      "id": 10,
+      "title": "Pooja Stand",
+      "image": "https://m.media-amazon.com/images/I/81cZrglhmYL.AC_UL480_FMwebp_QL65.jpg",
+      "price": 999,
+      "ratings": 4.8
+    },
+    {
+      "id": 11,
+      "title": "Sofa Pillows",
+      "image": "https://m.media-amazon.com/images/I/913WH9wAnrL.AC_UL480_FMwebp_QL65.jpg",
+      "price": 349,
+      "ratings": 3.8
+    },
+    {
+      "id": 12,
+      "title": "Cleaning Brush",
+      "image": "https://m.media-amazon.com/images/I/41pwLzif59L.AC_UL480_FMwebp_QL65.jpg",
+      "price": 220,
+      "ratings": 3.8
+    },
+    {
+      "id": 13,
+      "title": "Diya",
+      "image": "https://brownliving.in/cdn/shop/articles/the-ultimate-guide-to-green-home-essentials-products-worth-buying-268840.jpg?v=1703200337",
+      "price": 200,
+      "ratings": 4.5
+    },
+    {
+      "id": 14,
+      "title": "Swing",
+      "image": "https://www.nobroker.in/blog/wp-content/uploads/2021/07/home-decor-trends.jpg",
+      "price": 3000,
+      "ratings": 5
+    },
+    {
+      "id": 15,
+      "title": "Buddha",
+      "image": "https://hometown.gumlet.io/media/cms/icons/Kitchenware/figurines.jpg?w=200&dpr=2.6",
+      "price": 3000,
+      "ratings": 5
+    }
+  ],
+  "allUsersCart": {
+    "Vijay": [
+      {
+        "id": 1,
+        "title": "SmartPhone",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkz2kjdQjM6DX7mLSYMtBrQMF_wRCFb-3cxwI5rPg1A&s",
+        "price": 15000,
+        "ratings": 5
+      },
+      {
+        "id": 2,
+        "title": "TV",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/4/299765792/GM/GW/BT/6158633/50-inch-smart-android-led-tv-500x500.jpg",
+        "price": 25000,
+        "ratings": 4
+      }
+    ],
+    "Rekha": [
+      {
+        "id": 4,
+        "title": "Washing Machine",
+        "image": "https://whirlpoolindia.vtexassets.com/arquivos/ids/167574-1200-auto?v=638320917724870000",
+        "price": 20000,
+        "ratings": 3.2
+      },
+      {
+        "id": 5,
+        "title": "Microave oven",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyiYVs3xse5zH7hhmnIDtU6ZchYBpCOuid00Gev16kbQ&s",
+        "price": 23000,
+        "ratings": 3.8
+      }
+    ]
+  }
+}
